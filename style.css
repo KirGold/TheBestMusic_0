@@ -1,0 +1,52 @@
+body{
+    background-image: url(./img/52f56c146f3981736ee98c0e31b7fb2a.jpg);
+    background-size: cover;
+    margin-bottom: 50px;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    background-color: #2d0d0d94;
+    font-family: 'Sono', sans-serif;
+}
+span{
+    color: rgb(161, 164, 166);
+}
+main{
+    background-color: #60363690;
+    margin:  0 50px 0 50px;
+    border-radius: 50px;
+}
+.media_player {
+    width: 300px;
+    height: 180px;
+    background-color: #b4424288;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+.media_name {
+    text-align: center;
+    font-size: 19px;
+    font-family: 'Bebas Neue', cursive;
+
+}
+.media_image {
+    width: 70px;
+    height: 70px;
+    margin-left: 115px;
+    border: 1px solid #000;
+}
+ul{
+    font-size: 0;
+    
+}
+li{
+    font-size: 10px;
+    display: inline-block;
+    width: 20%;
+    margin: 50px;
+    padding: 50px;
+}
+.media_one {
+    margin-left: 250px;
+}
